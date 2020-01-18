@@ -1,0 +1,17 @@
+rpcuser=Mrusermepleaseineeditnow
+rpcpassword=changethispassword987435098713498134-6687
+# rpcuser=denariusrpc
+# rpcpassword=changethispassword
+rpcallowip=127.0.0.1
+daemon=0
+port=9999
+fortunastake=1
+listen=1
+# externalip=onionnodeaddy.onion
+# fortunastakeaddr=onionnodeaddy.onion:9999
+# fortunastakeprivkey=6Kt8Qn1X8hhS5Q3dKGnDfac3uQhbfZAu7phA7BhETgaMLvAcFHV
+# tor=127.0.0.1:9050
+bind=127.0.0.1:33301
+rpcport=32301
+# addnode=aibn2hiqsqwdrmbb.onion
+# addnode=jawnwg5qlyyhjcxf.onion

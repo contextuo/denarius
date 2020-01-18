@@ -1,0 +1,25 @@
+version: '3.3'
+
+services:
+  FS01:
+    # image: buzzkillb/denariusd:latest
+    image: denarius-foo
+    volumes:
+      - type: bind
+        source: ~/dev/denarius/denarius1
+        target: /data
+  FS02:
+    # image: buzzkillb/denariusd:latest
+    image: denarius-foo
+    volumes:
+      - type: bind
+        source: ~/dev/denarius/denarius2
+        target: /data
+  FS03:
+    # image: buzzkillb/denariusd:latest
+    image: denarius-foo
+    volumes:
+      - type: bind
+        source: ~/dev/denarius/denarius3
+        target: /data
+
