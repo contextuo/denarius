@@ -1,6 +1,6 @@
 # denarius
 
-Build image (and tag it docker-foo)
+Build image (and tag it denarius-foo)
 `docker build -t denarius-foo .`
 
 Run that shit
